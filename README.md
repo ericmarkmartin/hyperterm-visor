@@ -8,7 +8,7 @@ Open your [HyperTerm](https://hyperterm.org/) terminal from anywhere with a glob
 
 ## Installation
 
-In your `~/.hyperterm.js`, add `hyperterm-visor` to the list of `plugins`.
+In your `~/.hyperterm.js`, add `hyperterm-visor` to the list of `plugins`. Restart hyperterm after installation.
 
 ## Config
 
